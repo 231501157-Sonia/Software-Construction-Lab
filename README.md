@@ -1,1 +1,2 @@
-file:///C:/Users/SONIA/OneDrive/Desktop/SC_CRD/index.html
+CRIME RATE DETECTOR APP
+The Crime Rate Detector App is a data-driven platform designed to analyze, detect, and predict crime trends using historical and real-time data. It helps law enforcement agencies and citizens monitor high-risk areas, visualize crime patterns, and make informed decisions. By leveraging analytics and machine learning, the app enhances public safety through proactive crime prevention and efficient resource allocation.
